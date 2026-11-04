@@ -1,1 +1,0 @@
-# Проект first_project
